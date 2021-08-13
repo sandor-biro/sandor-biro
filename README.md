@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandor</h1>
-<h6 align="center">I’m a passionate Full Stack Developer, founder of various startups, continuously looking to grow and expand my skill set. Always customer oriented, I love to stay on top of latest technologies and I’m great at coming up with creative solutions.</h6>
+<h4 align="center">I’m a passionate Full Stack Developer, founder of various startups, continuously looking to grow and expand my skill set. Always customer oriented, I love to stay on top of latest technologies and I’m great at coming up with creative solutions.</h4>
 
 - 🔭 I’m currently working on **my own startup**
 
