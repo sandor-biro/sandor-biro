@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my own startup**
 
-- 💬 Ask me about **Ionic Framework & Native, GCP**
+- 💬 Ask me about **Ionic Framework & Native, Angular, GCP**
 
 - ⚡ Fun fact **I compose music. If you'll listen to my music there are high chances you'll ask me why I code :)**
 
