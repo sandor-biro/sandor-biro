@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my own startup**
 
-- 💬 Ask me about **Ionic Framework & Native, Angular, GCP**
+- 💬 Ask me about: **Ionic Framework & Native, Angular 2+, GCP**
 
-- ⚡ Fun fact **I compose music. If you'll listen to my music there are high chances you'll ask me why I code :)**
+- ⚡ Fun fact: **I compose music. If you'll listen to my music there are high chances you'll ask me why I code :)**
 
 
 <h3 align="left">Languages and Tools:</h3>
